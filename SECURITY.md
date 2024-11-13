@@ -1,6 +1,7 @@
 # Security Policy
 
 Security is very important for this project and its community. 🔒
+The latest version or release is supported.
 
 Learn more about it below. 👇
 
@@ -27,3 +28,5 @@ It's better to discuss privately and try to find a solution first, to limit the 
 Thanks for your help!
 
 The community and I thank you for that. 🙇
+
+The latest version or release is supported.
